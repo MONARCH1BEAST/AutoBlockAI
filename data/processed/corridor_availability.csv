@@ -1,0 +1,40 @@
+corridor_id,corridor_name,window_start_min,window_end_min,window_length_min,num_trains_sampled,criticality
+CORR_001,Abhayapuri - Mainguri Railway Line,765,830,65,8,0.4
+CORR_002,Bhairabi Sairang Railway Link,120,300,180,8,0.37
+CORR_002,Bhairabi Sairang Railway Link,780,900,120,8,0.37
+CORR_003,Bina - Katni railway,120,300,180,18,0.51
+CORR_003,Bina - Katni railway,780,900,120,18,0.51
+CORR_004,Bolangir - Khurda,120,300,180,8,0.38
+CORR_004,Bolangir - Khurda,780,900,120,8,0.38
+CORR_005,Delhi - Kalka Line,120,300,180,30,0.66
+CORR_005,Delhi - Kalka Line,780,900,120,30,0.66
+CORR_006,Eastern Dedicated Freight Corridor,120,300,180,30,0.78
+CORR_006,Eastern Dedicated Freight Corridor,780,900,120,30,0.78
+CORR_007,Howrah - Chennai Main Line,120,300,180,30,0.98
+CORR_007,Howrah - Chennai Main Line,780,900,120,30,0.98
+CORR_008,Howrah - Delhi Railway,120,300,180,30,0.95
+CORR_008,Howrah - Delhi Railway,780,900,120,30,0.95
+CORR_009,Kashmir Railway,120,300,180,8,0.37
+CORR_009,Kashmir Railway,780,900,120,8,0.37
+CORR_010,Katni - Obra railway,120,300,180,18,0.5
+CORR_010,Katni - Obra railway,780,900,120,18,0.5
+CORR_011,Kolkata Circular Railway,120,300,180,18,0.48
+CORR_011,Kolkata Circular Railway,780,900,120,18,0.48
+CORR_012,Konkan Railway,120,300,180,18,0.52
+CORR_012,Konkan Railway,780,900,120,18,0.52
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,120,300,180,8,0.37
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,780,900,120,8,0.37
+CORR_014,Line 1: Nagercoil - Chennai Egmore,120,300,180,8,0.38
+CORR_014,Line 1: Nagercoil - Chennai Egmore,780,900,120,8,0.38
+CORR_015,Line 2: Chennai Egmore - Nagercoil,120,300,180,8,0.38
+CORR_015,Line 2: Chennai Egmore - Nagercoil,780,900,120,8,0.38
+CORR_016,Lucknow–Moradabad line,120,300,180,30,0.65
+CORR_016,Lucknow–Moradabad line,780,900,120,30,0.65
+CORR_017,Lumding - Silchar BG Line,120,300,180,8,0.37
+CORR_017,Lumding - Silchar BG Line,780,900,120,8,0.37
+CORR_018,Mumbai - Delhi Railway,120,300,180,30,0.88
+CORR_018,Mumbai - Delhi Railway,780,900,120,30,0.88
+CORR_019,Mumbai-Pune Railway,120,300,180,30,0.63
+CORR_019,Mumbai-Pune Railway,780,900,120,30,0.63
+CORR_020,Western Dedicated Freight Corridor,120,300,180,30,0.82
+CORR_020,Western Dedicated Freight Corridor,780,900,120,30,0.82

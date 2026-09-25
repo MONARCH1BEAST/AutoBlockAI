@@ -1,0 +1,21 @@
+corridor_name,num_segments,region,districts,corridor_id,length_km,avg_daily_trains,criticality
+Abhayapuri - Mainguri Railway Line,371,Assam,"Bongaigaon, Dhubri, Kokrajhar",CORR_001,96.51,40,0.4
+Bhairabi Sairang Railway Link,215,Mizoram,"Kolasib, Aizawl",CORR_002,55.48,40,0.37
+Bina - Katni railway,185,Madhya Pradesh,"Sagar, Katni, Panna",CORR_003,721.19,90,0.51
+Bolangir - Khurda,166,Odisha,"Khordha, Nayagarh, Baudh",CORR_004,221.19,40,0.38
+Delhi - Kalka Line,252,Haryāna,"Karnal, Kurukshetra, Panchkula",CORR_005,579.32,150,0.66
+Eastern Dedicated Freight Corridor,679,Uttar Pradesh,"Kaushambi, Kanpur Dehat, Fatehpur",CORR_006,1712.21,180,0.78
+Howrah - Chennai Main Line,1338,Andhra Pradesh,"Sri Potti Sriramulu Nellore, West Godavari, Haora",CORR_007,3502.79,150,0.98
+Howrah - Delhi Railway,1187,Uttar Pradesh,"Kanpur Nagar, Kanpur Dehat, Fatehpur",CORR_008,3431.16,150,0.95
+Kashmir Railway,170,,,CORR_009,149.11,40,0.37
+Katni - Obra railway,165,Madhya Pradesh,"Singrauli, Sidhi, Katni",CORR_010,623.95,90,0.5
+Kolkata Circular Railway,204,West Bengal,"South Twenty Four Parganas, North Twenty Four Parganas",CORR_011,130.51,90,0.48
+Konkan Railway,433,Mahārāshtra,"Udupi, Dakshina Kannada, South Goa",CORR_012,402.98,90,0.52
+Krishnapatnam Port - Obulavaripalle new line,177,Andhra Pradesh,"Sri Potti Sriramulu Nellore, Kadapa(YSR)",CORR_013,103.83,40,0.37
+Line 1: Nagercoil - Chennai Egmore,189,Tamil Nādu,"Tirunelveli, Kanniyakumari, Virudhunagar",CORR_014,202.8,40,0.38
+Line 2: Chennai Egmore - Nagercoil,198,Tamil Nādu,"Tirunelveli, Kanniyakumari, Madurai",CORR_015,184.38,40,0.38
+Lucknow–Moradabad line,175,Uttar Pradesh,"Lucknow, Rampur, Moradabad",CORR_016,559.21,150,0.65
+Lumding - Silchar BG Line,169,Assam,"Cachar, Dima Hasao, Hojai",CORR_017,162.11,40,0.37
+Mumbai - Delhi Railway,1053,Gujarāt,"New Delhi, South East, Central",CORR_018,2547.63,150,0.88
+Mumbai-Pune Railway,178,Mahārāshtra,"Pune, Raigarh, Thane",CORR_019,195.77,150,0.63
+Western Dedicated Freight Corridor,859,Rājasthān,"Gurgaon, Mewat, Bharuch",CORR_020,1904.69,180,0.82

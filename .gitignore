@@ -1,0 +1,242 @@
+# ============================================================
+# AutoBlock AI — .gitignore
+# Keeps large files out of Git + Maintains confidentiality
+# ============================================================
+
+# ------------------------------------------------------------
+# 1. RAW DATA (confidential sources + large file sizes)
+# ------------------------------------------------------------
+# All raw datasets are excluded — users download separately
+data/raw/**/*.csv
+data/raw/**/*.json
+data/raw/**/*.zip
+data/raw/**/*.shp
+data/raw/**/*.shx
+data/raw/**/*.dbf
+data/raw/**/*.prj
+data/raw/**/*.cpg
+data/raw/**/*.sbn
+data/raw/**/*.sbx
+data/raw/**/*.xml
+
+# But keep the folder structure with .gitkeep files
+!data/raw/.gitkeep
+!data/raw/rstgcn/.gitkeep
+!data/raw/kaggle_failure/.gitkeep
+!data/raw/kaggle_timetable/.gitkeep
+!data/raw/osm_railways/.gitkeep
+
+# ------------------------------------------------------------
+# 2. INTERMEDIATE PROCESSED DATA (regenerable)
+# ------------------------------------------------------------
+# These are outputs of the pipeline. Anyone can rebuild them.
+# Small enough to push if you want, but better to exclude.
+data/processed/maintenance_tasks_enriched.csv
+data/processed/maintenance_tasks_escalated.csv
+
+# Keep the core processed files (small, useful for reference)
+!data/processed/corridor_master.csv
+!data/processed/maintenance_tasks.csv
+!data/processed/corridor_availability_week.csv
+!data/processed/train_delay_stats.csv
+
+# ------------------------------------------------------------
+# 3. ML MODEL ARTIFACTS (large + regenerable)
+# ------------------------------------------------------------
+# .pkl files can be 10-50 MB each; model retraining takes ~2 min
+src/models/saved/*.pkl
+src/models/saved/*.joblib
+src/models/saved/*.h5
+src/models/saved/*.pt
+src/models/saved/*.onnx
+
+# Keep the folder structure
+!src/models/saved/.gitkeep
+
+# ------------------------------------------------------------
+# 4. OUTPUT ARTIFACTS (regenerable)
+# ------------------------------------------------------------
+# Schedules and reports are regenerated each pipeline run.
+# Keep the folder structure so the repo works after cloning.
+output/schedules/*.csv
+output/reports/*.txt
+output/reports/*.png
+output/reports/*.pdf
+output/dashboards/*.html
+
+# Keep .gitkeep so folders persist
+!output/.gitkeep
+!output/schedules/.gitkeep
+!output/reports/.gitkeep
+
+# ------------------------------------------------------------
+# 5. CONFIDENTIAL / SENSITIVE FILES
+# ------------------------------------------------------------
+# Never commit credentials, keys, or environment configs
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+secrets.json
+credentials.json
+config/secrets.yaml
+config/credentials.yaml
+.streamlit/secrets.toml
+
+# Internal docs not for public repo
+docs/internal/
+docs/confidential/
+*.private.md
+TODO_private.md
+notes_private.txt
+
+# ------------------------------------------------------------
+# 6. PYTHON ENVIRONMENT
+# ------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.virtualenv/
+pythonenv*
+
+# Testing / coverage
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+profile_default/
+
+# ------------------------------------------------------------
+# 7. IDE / EDITOR
+# ------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+*.tmproj
+*~
+
+# ------------------------------------------------------------
+# 8. OPERATING SYSTEM
+# ------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ------------------------------------------------------------
+# 9. LOGS & TEMPORARY FILES
+# ------------------------------------------------------------
+*.log
+logs/
+*.tmp
+*.temp
+tmp/
+temp/
+*.bak
+*.backup
+
+# ------------------------------------------------------------
+# 10. STREAMLIT CACHE
+# ------------------------------------------------------------
+.streamlit/secrets.toml
+.streamlit/cache/
+
+# ------------------------------------------------------------
+# 11. LARGE FILES (generic safety net)
+# ------------------------------------------------------------
+# GitHub warns above 50 MB, rejects above 100 MB.
+# Ignore any CSV or JSON over that size in root directories.
+*.csv.gz
+*.json.gz
+*.tar.gz
+*.tgz
+*.zip
+!data/processed/*.zip    # allow small zips in processed if needed
+
+# ------------------------------------------------------------
+# 12. GEO-SPATIAL FILES (shapefile companions)
+# ------------------------------------------------------------
+*.shp.xml
+*.aux.xml
+*.qix
+*.lyr
+*.lyrx
+*.qml
+*.qmd
+*.gpkg-wal
+*.gpkg-shm
+
+# ------------------------------------------------------------
+# 13. DATA SCIENCE NOTEBOOK OUTPUTS
+# ------------------------------------------------------------
+notebooks/outputs/
+notebooks/figures/
+notebooks/*.html
+notebooks/*.png
+notebooks/*.pdf
+
+# ------------------------------------------------------------
+# 14. HACKATHON / COMPETITION SPECIFIC
+# ------------------------------------------------------------
+# Presentation drafts, internal pitches, non-final versions
+presentation/drafts/
+presentation/internal/
+*.pptx.tmp
+*.key
+
+# Keep the final deliverables
+!presentation/final/
+
+# ------------------------------------------------------------
+# END OF .gitignore
+# ------------------------------------------------------------

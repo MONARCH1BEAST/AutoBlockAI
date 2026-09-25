@@ -1,0 +1,21 @@
+corridor_id,corridor_name,tasks_available,tasks_assigned,temp_fix_tasks
+CORR_001,Abhayapuri - Mainguri Railway Line,25,2,25
+CORR_002,Bhairabi Sairang Railway Link,25,25,25
+CORR_003,Bina - Katni railway,25,25,25
+CORR_004,Bolangir - Khurda,25,25,25
+CORR_005,Delhi - Kalka Line,25,25,25
+CORR_006,Eastern Dedicated Freight Corridor,25,25,25
+CORR_007,Howrah - Chennai Main Line,25,25,25
+CORR_008,Howrah - Delhi Railway,25,25,25
+CORR_009,Kashmir Railway,25,25,25
+CORR_010,Katni - Obra railway,25,25,25
+CORR_011,Kolkata Circular Railway,25,25,25
+CORR_012,Konkan Railway,25,25,25
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,25,25,25
+CORR_014,Line 1: Nagercoil - Chennai Egmore,25,25,25
+CORR_015,Line 2: Chennai Egmore - Nagercoil,25,25,25
+CORR_016,Lucknow–Moradabad line,25,25,25
+CORR_017,Lumding - Silchar BG Line,25,25,25
+CORR_018,Mumbai - Delhi Railway,25,25,25
+CORR_019,Mumbai-Pune Railway,25,25,0
+CORR_020,Western Dedicated Freight Corridor,25,25,0

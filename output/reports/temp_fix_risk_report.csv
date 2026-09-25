@@ -1,0 +1,8 @@
+metric,value
+Total temp-fix tasks,6994
+Total temp-fix tasks scheduled,427
+Critical temp fixes (>80% aged),748
+Critical temp fixes scheduled,285
+Critical temp fixes NOT scheduled,463
+Expired temp fixes,268
+Expired temp fixes scheduled,128

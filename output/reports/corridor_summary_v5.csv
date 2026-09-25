@@ -1,0 +1,14 @@
+corridor_id,corridor_name,tasks_available,tasks_assigned,mandatory_temp_fixes,ml_optimized
+CORR_008,Howrah - Delhi Railway,34,18,9,9
+CORR_009,Kashmir Railway,26,26,1,25
+CORR_010,Katni - Obra railway,33,20,8,12
+CORR_011,Kolkata Circular Railway,37,21,12,9
+CORR_012,Konkan Railway,33,20,8,12
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,26,26,1,25
+CORR_014,Line 1: Nagercoil - Chennai Egmore,26,26,1,25
+CORR_015,Line 2: Chennai Egmore - Nagercoil,26,26,1,25
+CORR_016,Lucknow–Moradabad line,31,14,6,8
+CORR_017,Lumding - Silchar BG Line,29,28,4,24
+CORR_018,Mumbai - Delhi Railway,26,26,1,25
+CORR_019,Mumbai-Pune Railway,25,25,0,25
+CORR_020,Western Dedicated Freight Corridor,25,25,0,25

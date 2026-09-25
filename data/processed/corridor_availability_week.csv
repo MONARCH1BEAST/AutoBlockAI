@@ -1,0 +1,274 @@
+corridor_id,corridor_name,window_start_min,window_end_min,window_length_min,num_trains_sampled,criticality,day_of_week,window_id
+CORR_001,Abhayapuri - Mainguri Railway Line,765,830,65,8,0.4,0,CORR_001_D0_W0
+CORR_002,Bhairabi Sairang Railway Link,120,300,180,8,0.37,0,CORR_002_D0_W0
+CORR_002,Bhairabi Sairang Railway Link,780,900,120,8,0.37,0,CORR_002_D0_W1
+CORR_003,Bina - Katni railway,120,300,180,18,0.51,0,CORR_003_D0_W0
+CORR_003,Bina - Katni railway,780,900,120,18,0.51,0,CORR_003_D0_W1
+CORR_004,Bolangir - Khurda,120,300,180,8,0.38,0,CORR_004_D0_W0
+CORR_004,Bolangir - Khurda,780,900,120,8,0.38,0,CORR_004_D0_W1
+CORR_005,Delhi - Kalka Line,120,300,180,30,0.66,0,CORR_005_D0_W0
+CORR_005,Delhi - Kalka Line,780,900,120,30,0.66,0,CORR_005_D0_W1
+CORR_006,Eastern Dedicated Freight Corridor,120,300,180,30,0.78,0,CORR_006_D0_W0
+CORR_006,Eastern Dedicated Freight Corridor,780,900,120,30,0.78,0,CORR_006_D0_W1
+CORR_007,Howrah - Chennai Main Line,120,300,180,30,0.98,0,CORR_007_D0_W0
+CORR_007,Howrah - Chennai Main Line,780,900,120,30,0.98,0,CORR_007_D0_W1
+CORR_008,Howrah - Delhi Railway,120,300,180,30,0.95,0,CORR_008_D0_W0
+CORR_008,Howrah - Delhi Railway,780,900,120,30,0.95,0,CORR_008_D0_W1
+CORR_009,Kashmir Railway,120,300,180,8,0.37,0,CORR_009_D0_W0
+CORR_009,Kashmir Railway,780,900,120,8,0.37,0,CORR_009_D0_W1
+CORR_010,Katni - Obra railway,120,300,180,18,0.5,0,CORR_010_D0_W0
+CORR_010,Katni - Obra railway,780,900,120,18,0.5,0,CORR_010_D0_W1
+CORR_011,Kolkata Circular Railway,120,300,180,18,0.48,0,CORR_011_D0_W0
+CORR_011,Kolkata Circular Railway,780,900,120,18,0.48,0,CORR_011_D0_W1
+CORR_012,Konkan Railway,120,300,180,18,0.52,0,CORR_012_D0_W0
+CORR_012,Konkan Railway,780,900,120,18,0.52,0,CORR_012_D0_W1
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,120,300,180,8,0.37,0,CORR_013_D0_W0
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,780,900,120,8,0.37,0,CORR_013_D0_W1
+CORR_014,Line 1: Nagercoil - Chennai Egmore,120,300,180,8,0.38,0,CORR_014_D0_W0
+CORR_014,Line 1: Nagercoil - Chennai Egmore,780,900,120,8,0.38,0,CORR_014_D0_W1
+CORR_015,Line 2: Chennai Egmore - Nagercoil,120,300,180,8,0.38,0,CORR_015_D0_W0
+CORR_015,Line 2: Chennai Egmore - Nagercoil,780,900,120,8,0.38,0,CORR_015_D0_W1
+CORR_016,Lucknow–Moradabad line,120,300,180,30,0.65,0,CORR_016_D0_W0
+CORR_016,Lucknow–Moradabad line,780,900,120,30,0.65,0,CORR_016_D0_W1
+CORR_017,Lumding - Silchar BG Line,120,300,180,8,0.37,0,CORR_017_D0_W0
+CORR_017,Lumding - Silchar BG Line,780,900,120,8,0.37,0,CORR_017_D0_W1
+CORR_018,Mumbai - Delhi Railway,120,300,180,30,0.88,0,CORR_018_D0_W0
+CORR_018,Mumbai - Delhi Railway,780,900,120,30,0.88,0,CORR_018_D0_W1
+CORR_019,Mumbai-Pune Railway,120,300,180,30,0.63,0,CORR_019_D0_W0
+CORR_019,Mumbai-Pune Railway,780,900,120,30,0.63,0,CORR_019_D0_W1
+CORR_020,Western Dedicated Freight Corridor,120,300,180,30,0.82,0,CORR_020_D0_W0
+CORR_020,Western Dedicated Freight Corridor,780,900,120,30,0.82,0,CORR_020_D0_W1
+CORR_001,Abhayapuri - Mainguri Railway Line,765,830,65,8,0.4,1,CORR_001_D1_W0
+CORR_002,Bhairabi Sairang Railway Link,120,300,180,8,0.37,1,CORR_002_D1_W0
+CORR_002,Bhairabi Sairang Railway Link,780,900,120,8,0.37,1,CORR_002_D1_W1
+CORR_003,Bina - Katni railway,120,300,180,18,0.51,1,CORR_003_D1_W0
+CORR_003,Bina - Katni railway,780,900,120,18,0.51,1,CORR_003_D1_W1
+CORR_004,Bolangir - Khurda,120,300,180,8,0.38,1,CORR_004_D1_W0
+CORR_004,Bolangir - Khurda,780,900,120,8,0.38,1,CORR_004_D1_W1
+CORR_005,Delhi - Kalka Line,120,300,180,30,0.66,1,CORR_005_D1_W0
+CORR_005,Delhi - Kalka Line,780,900,120,30,0.66,1,CORR_005_D1_W1
+CORR_006,Eastern Dedicated Freight Corridor,120,300,180,30,0.78,1,CORR_006_D1_W0
+CORR_006,Eastern Dedicated Freight Corridor,780,900,120,30,0.78,1,CORR_006_D1_W1
+CORR_007,Howrah - Chennai Main Line,120,300,180,30,0.98,1,CORR_007_D1_W0
+CORR_007,Howrah - Chennai Main Line,780,900,120,30,0.98,1,CORR_007_D1_W1
+CORR_008,Howrah - Delhi Railway,120,300,180,30,0.95,1,CORR_008_D1_W0
+CORR_008,Howrah - Delhi Railway,780,900,120,30,0.95,1,CORR_008_D1_W1
+CORR_009,Kashmir Railway,120,300,180,8,0.37,1,CORR_009_D1_W0
+CORR_009,Kashmir Railway,780,900,120,8,0.37,1,CORR_009_D1_W1
+CORR_010,Katni - Obra railway,120,300,180,18,0.5,1,CORR_010_D1_W0
+CORR_010,Katni - Obra railway,780,900,120,18,0.5,1,CORR_010_D1_W1
+CORR_011,Kolkata Circular Railway,120,300,180,18,0.48,1,CORR_011_D1_W0
+CORR_011,Kolkata Circular Railway,780,900,120,18,0.48,1,CORR_011_D1_W1
+CORR_012,Konkan Railway,120,300,180,18,0.52,1,CORR_012_D1_W0
+CORR_012,Konkan Railway,780,900,120,18,0.52,1,CORR_012_D1_W1
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,120,300,180,8,0.37,1,CORR_013_D1_W0
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,780,900,120,8,0.37,1,CORR_013_D1_W1
+CORR_014,Line 1: Nagercoil - Chennai Egmore,120,300,180,8,0.38,1,CORR_014_D1_W0
+CORR_014,Line 1: Nagercoil - Chennai Egmore,780,900,120,8,0.38,1,CORR_014_D1_W1
+CORR_015,Line 2: Chennai Egmore - Nagercoil,120,300,180,8,0.38,1,CORR_015_D1_W0
+CORR_015,Line 2: Chennai Egmore - Nagercoil,780,900,120,8,0.38,1,CORR_015_D1_W1
+CORR_016,Lucknow–Moradabad line,120,300,180,30,0.65,1,CORR_016_D1_W0
+CORR_016,Lucknow–Moradabad line,780,900,120,30,0.65,1,CORR_016_D1_W1
+CORR_017,Lumding - Silchar BG Line,120,300,180,8,0.37,1,CORR_017_D1_W0
+CORR_017,Lumding - Silchar BG Line,780,900,120,8,0.37,1,CORR_017_D1_W1
+CORR_018,Mumbai - Delhi Railway,120,300,180,30,0.88,1,CORR_018_D1_W0
+CORR_018,Mumbai - Delhi Railway,780,900,120,30,0.88,1,CORR_018_D1_W1
+CORR_019,Mumbai-Pune Railway,120,300,180,30,0.63,1,CORR_019_D1_W0
+CORR_019,Mumbai-Pune Railway,780,900,120,30,0.63,1,CORR_019_D1_W1
+CORR_020,Western Dedicated Freight Corridor,120,300,180,30,0.82,1,CORR_020_D1_W0
+CORR_020,Western Dedicated Freight Corridor,780,900,120,30,0.82,1,CORR_020_D1_W1
+CORR_001,Abhayapuri - Mainguri Railway Line,765,830,65,8,0.4,2,CORR_001_D2_W0
+CORR_002,Bhairabi Sairang Railway Link,120,300,180,8,0.37,2,CORR_002_D2_W0
+CORR_002,Bhairabi Sairang Railway Link,780,900,120,8,0.37,2,CORR_002_D2_W1
+CORR_003,Bina - Katni railway,120,300,180,18,0.51,2,CORR_003_D2_W0
+CORR_003,Bina - Katni railway,780,900,120,18,0.51,2,CORR_003_D2_W1
+CORR_004,Bolangir - Khurda,120,300,180,8,0.38,2,CORR_004_D2_W0
+CORR_004,Bolangir - Khurda,780,900,120,8,0.38,2,CORR_004_D2_W1
+CORR_005,Delhi - Kalka Line,120,300,180,30,0.66,2,CORR_005_D2_W0
+CORR_005,Delhi - Kalka Line,780,900,120,30,0.66,2,CORR_005_D2_W1
+CORR_006,Eastern Dedicated Freight Corridor,120,300,180,30,0.78,2,CORR_006_D2_W0
+CORR_006,Eastern Dedicated Freight Corridor,780,900,120,30,0.78,2,CORR_006_D2_W1
+CORR_007,Howrah - Chennai Main Line,120,300,180,30,0.98,2,CORR_007_D2_W0
+CORR_007,Howrah - Chennai Main Line,780,900,120,30,0.98,2,CORR_007_D2_W1
+CORR_008,Howrah - Delhi Railway,120,300,180,30,0.95,2,CORR_008_D2_W0
+CORR_008,Howrah - Delhi Railway,780,900,120,30,0.95,2,CORR_008_D2_W1
+CORR_009,Kashmir Railway,120,300,180,8,0.37,2,CORR_009_D2_W0
+CORR_009,Kashmir Railway,780,900,120,8,0.37,2,CORR_009_D2_W1
+CORR_010,Katni - Obra railway,120,300,180,18,0.5,2,CORR_010_D2_W0
+CORR_010,Katni - Obra railway,780,900,120,18,0.5,2,CORR_010_D2_W1
+CORR_011,Kolkata Circular Railway,120,300,180,18,0.48,2,CORR_011_D2_W0
+CORR_011,Kolkata Circular Railway,780,900,120,18,0.48,2,CORR_011_D2_W1
+CORR_012,Konkan Railway,120,300,180,18,0.52,2,CORR_012_D2_W0
+CORR_012,Konkan Railway,780,900,120,18,0.52,2,CORR_012_D2_W1
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,120,300,180,8,0.37,2,CORR_013_D2_W0
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,780,900,120,8,0.37,2,CORR_013_D2_W1
+CORR_014,Line 1: Nagercoil - Chennai Egmore,120,300,180,8,0.38,2,CORR_014_D2_W0
+CORR_014,Line 1: Nagercoil - Chennai Egmore,780,900,120,8,0.38,2,CORR_014_D2_W1
+CORR_015,Line 2: Chennai Egmore - Nagercoil,120,300,180,8,0.38,2,CORR_015_D2_W0
+CORR_015,Line 2: Chennai Egmore - Nagercoil,780,900,120,8,0.38,2,CORR_015_D2_W1
+CORR_016,Lucknow–Moradabad line,120,300,180,30,0.65,2,CORR_016_D2_W0
+CORR_016,Lucknow–Moradabad line,780,900,120,30,0.65,2,CORR_016_D2_W1
+CORR_017,Lumding - Silchar BG Line,120,300,180,8,0.37,2,CORR_017_D2_W0
+CORR_017,Lumding - Silchar BG Line,780,900,120,8,0.37,2,CORR_017_D2_W1
+CORR_018,Mumbai - Delhi Railway,120,300,180,30,0.88,2,CORR_018_D2_W0
+CORR_018,Mumbai - Delhi Railway,780,900,120,30,0.88,2,CORR_018_D2_W1
+CORR_019,Mumbai-Pune Railway,120,300,180,30,0.63,2,CORR_019_D2_W0
+CORR_019,Mumbai-Pune Railway,780,900,120,30,0.63,2,CORR_019_D2_W1
+CORR_020,Western Dedicated Freight Corridor,120,300,180,30,0.82,2,CORR_020_D2_W0
+CORR_020,Western Dedicated Freight Corridor,780,900,120,30,0.82,2,CORR_020_D2_W1
+CORR_001,Abhayapuri - Mainguri Railway Line,765,830,65,8,0.4,3,CORR_001_D3_W0
+CORR_002,Bhairabi Sairang Railway Link,120,300,180,8,0.37,3,CORR_002_D3_W0
+CORR_002,Bhairabi Sairang Railway Link,780,900,120,8,0.37,3,CORR_002_D3_W1
+CORR_003,Bina - Katni railway,120,300,180,18,0.51,3,CORR_003_D3_W0
+CORR_003,Bina - Katni railway,780,900,120,18,0.51,3,CORR_003_D3_W1
+CORR_004,Bolangir - Khurda,120,300,180,8,0.38,3,CORR_004_D3_W0
+CORR_004,Bolangir - Khurda,780,900,120,8,0.38,3,CORR_004_D3_W1
+CORR_005,Delhi - Kalka Line,120,300,180,30,0.66,3,CORR_005_D3_W0
+CORR_005,Delhi - Kalka Line,780,900,120,30,0.66,3,CORR_005_D3_W1
+CORR_006,Eastern Dedicated Freight Corridor,120,300,180,30,0.78,3,CORR_006_D3_W0
+CORR_006,Eastern Dedicated Freight Corridor,780,900,120,30,0.78,3,CORR_006_D3_W1
+CORR_007,Howrah - Chennai Main Line,120,300,180,30,0.98,3,CORR_007_D3_W0
+CORR_007,Howrah - Chennai Main Line,780,900,120,30,0.98,3,CORR_007_D3_W1
+CORR_008,Howrah - Delhi Railway,120,300,180,30,0.95,3,CORR_008_D3_W0
+CORR_008,Howrah - Delhi Railway,780,900,120,30,0.95,3,CORR_008_D3_W1
+CORR_009,Kashmir Railway,120,300,180,8,0.37,3,CORR_009_D3_W0
+CORR_009,Kashmir Railway,780,900,120,8,0.37,3,CORR_009_D3_W1
+CORR_010,Katni - Obra railway,120,300,180,18,0.5,3,CORR_010_D3_W0
+CORR_010,Katni - Obra railway,780,900,120,18,0.5,3,CORR_010_D3_W1
+CORR_011,Kolkata Circular Railway,120,300,180,18,0.48,3,CORR_011_D3_W0
+CORR_011,Kolkata Circular Railway,780,900,120,18,0.48,3,CORR_011_D3_W1
+CORR_012,Konkan Railway,120,300,180,18,0.52,3,CORR_012_D3_W0
+CORR_012,Konkan Railway,780,900,120,18,0.52,3,CORR_012_D3_W1
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,120,300,180,8,0.37,3,CORR_013_D3_W0
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,780,900,120,8,0.37,3,CORR_013_D3_W1
+CORR_014,Line 1: Nagercoil - Chennai Egmore,120,300,180,8,0.38,3,CORR_014_D3_W0
+CORR_014,Line 1: Nagercoil - Chennai Egmore,780,900,120,8,0.38,3,CORR_014_D3_W1
+CORR_015,Line 2: Chennai Egmore - Nagercoil,120,300,180,8,0.38,3,CORR_015_D3_W0
+CORR_015,Line 2: Chennai Egmore - Nagercoil,780,900,120,8,0.38,3,CORR_015_D3_W1
+CORR_016,Lucknow–Moradabad line,120,300,180,30,0.65,3,CORR_016_D3_W0
+CORR_016,Lucknow–Moradabad line,780,900,120,30,0.65,3,CORR_016_D3_W1
+CORR_017,Lumding - Silchar BG Line,120,300,180,8,0.37,3,CORR_017_D3_W0
+CORR_017,Lumding - Silchar BG Line,780,900,120,8,0.37,3,CORR_017_D3_W1
+CORR_018,Mumbai - Delhi Railway,120,300,180,30,0.88,3,CORR_018_D3_W0
+CORR_018,Mumbai - Delhi Railway,780,900,120,30,0.88,3,CORR_018_D3_W1
+CORR_019,Mumbai-Pune Railway,120,300,180,30,0.63,3,CORR_019_D3_W0
+CORR_019,Mumbai-Pune Railway,780,900,120,30,0.63,3,CORR_019_D3_W1
+CORR_020,Western Dedicated Freight Corridor,120,300,180,30,0.82,3,CORR_020_D3_W0
+CORR_020,Western Dedicated Freight Corridor,780,900,120,30,0.82,3,CORR_020_D3_W1
+CORR_001,Abhayapuri - Mainguri Railway Line,765,830,65,8,0.4,4,CORR_001_D4_W0
+CORR_002,Bhairabi Sairang Railway Link,120,300,180,8,0.37,4,CORR_002_D4_W0
+CORR_002,Bhairabi Sairang Railway Link,780,900,120,8,0.37,4,CORR_002_D4_W1
+CORR_003,Bina - Katni railway,120,300,180,18,0.51,4,CORR_003_D4_W0
+CORR_003,Bina - Katni railway,780,900,120,18,0.51,4,CORR_003_D4_W1
+CORR_004,Bolangir - Khurda,120,300,180,8,0.38,4,CORR_004_D4_W0
+CORR_004,Bolangir - Khurda,780,900,120,8,0.38,4,CORR_004_D4_W1
+CORR_005,Delhi - Kalka Line,120,300,180,30,0.66,4,CORR_005_D4_W0
+CORR_005,Delhi - Kalka Line,780,900,120,30,0.66,4,CORR_005_D4_W1
+CORR_006,Eastern Dedicated Freight Corridor,120,300,180,30,0.78,4,CORR_006_D4_W0
+CORR_006,Eastern Dedicated Freight Corridor,780,900,120,30,0.78,4,CORR_006_D4_W1
+CORR_007,Howrah - Chennai Main Line,120,300,180,30,0.98,4,CORR_007_D4_W0
+CORR_007,Howrah - Chennai Main Line,780,900,120,30,0.98,4,CORR_007_D4_W1
+CORR_008,Howrah - Delhi Railway,120,300,180,30,0.95,4,CORR_008_D4_W0
+CORR_008,Howrah - Delhi Railway,780,900,120,30,0.95,4,CORR_008_D4_W1
+CORR_009,Kashmir Railway,120,300,180,8,0.37,4,CORR_009_D4_W0
+CORR_009,Kashmir Railway,780,900,120,8,0.37,4,CORR_009_D4_W1
+CORR_010,Katni - Obra railway,120,300,180,18,0.5,4,CORR_010_D4_W0
+CORR_010,Katni - Obra railway,780,900,120,18,0.5,4,CORR_010_D4_W1
+CORR_011,Kolkata Circular Railway,120,300,180,18,0.48,4,CORR_011_D4_W0
+CORR_011,Kolkata Circular Railway,780,900,120,18,0.48,4,CORR_011_D4_W1
+CORR_012,Konkan Railway,120,300,180,18,0.52,4,CORR_012_D4_W0
+CORR_012,Konkan Railway,780,900,120,18,0.52,4,CORR_012_D4_W1
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,120,300,180,8,0.37,4,CORR_013_D4_W0
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,780,900,120,8,0.37,4,CORR_013_D4_W1
+CORR_014,Line 1: Nagercoil - Chennai Egmore,120,300,180,8,0.38,4,CORR_014_D4_W0
+CORR_014,Line 1: Nagercoil - Chennai Egmore,780,900,120,8,0.38,4,CORR_014_D4_W1
+CORR_015,Line 2: Chennai Egmore - Nagercoil,120,300,180,8,0.38,4,CORR_015_D4_W0
+CORR_015,Line 2: Chennai Egmore - Nagercoil,780,900,120,8,0.38,4,CORR_015_D4_W1
+CORR_016,Lucknow–Moradabad line,120,300,180,30,0.65,4,CORR_016_D4_W0
+CORR_016,Lucknow–Moradabad line,780,900,120,30,0.65,4,CORR_016_D4_W1
+CORR_017,Lumding - Silchar BG Line,120,300,180,8,0.37,4,CORR_017_D4_W0
+CORR_017,Lumding - Silchar BG Line,780,900,120,8,0.37,4,CORR_017_D4_W1
+CORR_018,Mumbai - Delhi Railway,120,300,180,30,0.88,4,CORR_018_D4_W0
+CORR_018,Mumbai - Delhi Railway,780,900,120,30,0.88,4,CORR_018_D4_W1
+CORR_019,Mumbai-Pune Railway,120,300,180,30,0.63,4,CORR_019_D4_W0
+CORR_019,Mumbai-Pune Railway,780,900,120,30,0.63,4,CORR_019_D4_W1
+CORR_020,Western Dedicated Freight Corridor,120,300,180,30,0.82,4,CORR_020_D4_W0
+CORR_020,Western Dedicated Freight Corridor,780,900,120,30,0.82,4,CORR_020_D4_W1
+CORR_001,Abhayapuri - Mainguri Railway Line,765,830,65,8,0.4,5,CORR_001_D5_W0
+CORR_002,Bhairabi Sairang Railway Link,120,300,180,8,0.37,5,CORR_002_D5_W0
+CORR_002,Bhairabi Sairang Railway Link,780,900,120,8,0.37,5,CORR_002_D5_W1
+CORR_003,Bina - Katni railway,120,300,180,18,0.51,5,CORR_003_D5_W0
+CORR_003,Bina - Katni railway,780,900,120,18,0.51,5,CORR_003_D5_W1
+CORR_004,Bolangir - Khurda,120,300,180,8,0.38,5,CORR_004_D5_W0
+CORR_004,Bolangir - Khurda,780,900,120,8,0.38,5,CORR_004_D5_W1
+CORR_005,Delhi - Kalka Line,120,300,180,30,0.66,5,CORR_005_D5_W0
+CORR_005,Delhi - Kalka Line,780,900,120,30,0.66,5,CORR_005_D5_W1
+CORR_006,Eastern Dedicated Freight Corridor,120,300,180,30,0.78,5,CORR_006_D5_W0
+CORR_006,Eastern Dedicated Freight Corridor,780,900,120,30,0.78,5,CORR_006_D5_W1
+CORR_007,Howrah - Chennai Main Line,120,300,180,30,0.98,5,CORR_007_D5_W0
+CORR_007,Howrah - Chennai Main Line,780,900,120,30,0.98,5,CORR_007_D5_W1
+CORR_008,Howrah - Delhi Railway,120,300,180,30,0.95,5,CORR_008_D5_W0
+CORR_008,Howrah - Delhi Railway,780,900,120,30,0.95,5,CORR_008_D5_W1
+CORR_009,Kashmir Railway,120,300,180,8,0.37,5,CORR_009_D5_W0
+CORR_009,Kashmir Railway,780,900,120,8,0.37,5,CORR_009_D5_W1
+CORR_010,Katni - Obra railway,120,300,180,18,0.5,5,CORR_010_D5_W0
+CORR_010,Katni - Obra railway,780,900,120,18,0.5,5,CORR_010_D5_W1
+CORR_011,Kolkata Circular Railway,120,300,180,18,0.48,5,CORR_011_D5_W0
+CORR_011,Kolkata Circular Railway,780,900,120,18,0.48,5,CORR_011_D5_W1
+CORR_012,Konkan Railway,120,300,180,18,0.52,5,CORR_012_D5_W0
+CORR_012,Konkan Railway,780,900,120,18,0.52,5,CORR_012_D5_W1
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,120,300,180,8,0.37,5,CORR_013_D5_W0
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,780,900,120,8,0.37,5,CORR_013_D5_W1
+CORR_014,Line 1: Nagercoil - Chennai Egmore,120,300,180,8,0.38,5,CORR_014_D5_W0
+CORR_014,Line 1: Nagercoil - Chennai Egmore,780,900,120,8,0.38,5,CORR_014_D5_W1
+CORR_015,Line 2: Chennai Egmore - Nagercoil,120,300,180,8,0.38,5,CORR_015_D5_W0
+CORR_015,Line 2: Chennai Egmore - Nagercoil,780,900,120,8,0.38,5,CORR_015_D5_W1
+CORR_016,Lucknow–Moradabad line,120,300,180,30,0.65,5,CORR_016_D5_W0
+CORR_016,Lucknow–Moradabad line,780,900,120,30,0.65,5,CORR_016_D5_W1
+CORR_017,Lumding - Silchar BG Line,120,300,180,8,0.37,5,CORR_017_D5_W0
+CORR_017,Lumding - Silchar BG Line,780,900,120,8,0.37,5,CORR_017_D5_W1
+CORR_018,Mumbai - Delhi Railway,120,300,180,30,0.88,5,CORR_018_D5_W0
+CORR_018,Mumbai - Delhi Railway,780,900,120,30,0.88,5,CORR_018_D5_W1
+CORR_019,Mumbai-Pune Railway,120,300,180,30,0.63,5,CORR_019_D5_W0
+CORR_019,Mumbai-Pune Railway,780,900,120,30,0.63,5,CORR_019_D5_W1
+CORR_020,Western Dedicated Freight Corridor,120,300,180,30,0.82,5,CORR_020_D5_W0
+CORR_020,Western Dedicated Freight Corridor,780,900,120,30,0.82,5,CORR_020_D5_W1
+CORR_001,Abhayapuri - Mainguri Railway Line,765,830,65,8,0.4,6,CORR_001_D6_W0
+CORR_002,Bhairabi Sairang Railway Link,120,300,180,8,0.37,6,CORR_002_D6_W0
+CORR_002,Bhairabi Sairang Railway Link,780,900,120,8,0.37,6,CORR_002_D6_W1
+CORR_003,Bina - Katni railway,120,300,180,18,0.51,6,CORR_003_D6_W0
+CORR_003,Bina - Katni railway,780,900,120,18,0.51,6,CORR_003_D6_W1
+CORR_004,Bolangir - Khurda,120,300,180,8,0.38,6,CORR_004_D6_W0
+CORR_004,Bolangir - Khurda,780,900,120,8,0.38,6,CORR_004_D6_W1
+CORR_005,Delhi - Kalka Line,120,300,180,30,0.66,6,CORR_005_D6_W0
+CORR_005,Delhi - Kalka Line,780,900,120,30,0.66,6,CORR_005_D6_W1
+CORR_006,Eastern Dedicated Freight Corridor,120,300,180,30,0.78,6,CORR_006_D6_W0
+CORR_006,Eastern Dedicated Freight Corridor,780,900,120,30,0.78,6,CORR_006_D6_W1
+CORR_007,Howrah - Chennai Main Line,120,300,180,30,0.98,6,CORR_007_D6_W0
+CORR_007,Howrah - Chennai Main Line,780,900,120,30,0.98,6,CORR_007_D6_W1
+CORR_008,Howrah - Delhi Railway,120,300,180,30,0.95,6,CORR_008_D6_W0
+CORR_008,Howrah - Delhi Railway,780,900,120,30,0.95,6,CORR_008_D6_W1
+CORR_009,Kashmir Railway,120,300,180,8,0.37,6,CORR_009_D6_W0
+CORR_009,Kashmir Railway,780,900,120,8,0.37,6,CORR_009_D6_W1
+CORR_010,Katni - Obra railway,120,300,180,18,0.5,6,CORR_010_D6_W0
+CORR_010,Katni - Obra railway,780,900,120,18,0.5,6,CORR_010_D6_W1
+CORR_011,Kolkata Circular Railway,120,300,180,18,0.48,6,CORR_011_D6_W0
+CORR_011,Kolkata Circular Railway,780,900,120,18,0.48,6,CORR_011_D6_W1
+CORR_012,Konkan Railway,120,300,180,18,0.52,6,CORR_012_D6_W0
+CORR_012,Konkan Railway,780,900,120,18,0.52,6,CORR_012_D6_W1
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,120,300,180,8,0.37,6,CORR_013_D6_W0
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,780,900,120,8,0.37,6,CORR_013_D6_W1
+CORR_014,Line 1: Nagercoil - Chennai Egmore,120,300,180,8,0.38,6,CORR_014_D6_W0
+CORR_014,Line 1: Nagercoil - Chennai Egmore,780,900,120,8,0.38,6,CORR_014_D6_W1
+CORR_015,Line 2: Chennai Egmore - Nagercoil,120,300,180,8,0.38,6,CORR_015_D6_W0
+CORR_015,Line 2: Chennai Egmore - Nagercoil,780,900,120,8,0.38,6,CORR_015_D6_W1
+CORR_016,Lucknow–Moradabad line,120,300,180,30,0.65,6,CORR_016_D6_W0
+CORR_016,Lucknow–Moradabad line,780,900,120,30,0.65,6,CORR_016_D6_W1
+CORR_017,Lumding - Silchar BG Line,120,300,180,8,0.37,6,CORR_017_D6_W0
+CORR_017,Lumding - Silchar BG Line,780,900,120,8,0.37,6,CORR_017_D6_W1
+CORR_018,Mumbai - Delhi Railway,120,300,180,30,0.88,6,CORR_018_D6_W0
+CORR_018,Mumbai - Delhi Railway,780,900,120,30,0.88,6,CORR_018_D6_W1
+CORR_019,Mumbai-Pune Railway,120,300,180,30,0.63,6,CORR_019_D6_W0
+CORR_019,Mumbai-Pune Railway,780,900,120,30,0.63,6,CORR_019_D6_W1
+CORR_020,Western Dedicated Freight Corridor,120,300,180,30,0.82,6,CORR_020_D6_W0
+CORR_020,Western Dedicated Freight Corridor,780,900,120,30,0.82,6,CORR_020_D6_W1

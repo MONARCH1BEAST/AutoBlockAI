@@ -1,0 +1,21 @@
+corridor_id,corridor_name,avg_delay_min,std_delay_min,sampled_trains
+CORR_001,Abhayapuri - Mainguri Railway Line,31.96,63.2,8
+CORR_002,Bhairabi Sairang Railway Link,30.08,51.4,8
+CORR_003,Bina - Katni railway,0.0,15.0,18
+CORR_004,Bolangir - Khurda,4.01,10.34,8
+CORR_005,Delhi - Kalka Line,27.94,36.93,30
+CORR_006,Eastern Dedicated Freight Corridor,21.06,45.0,30
+CORR_007,Howrah - Chennai Main Line,36.05,77.87,30
+CORR_008,Howrah - Delhi Railway,19.71,40.87,30
+CORR_009,Kashmir Railway,30.08,51.4,8
+CORR_010,Katni - Obra railway,28.13,42.87,18
+CORR_011,Kolkata Circular Railway,40.52,65.67,18
+CORR_012,Konkan Railway,11.58,17.74,18
+CORR_013,Krishnapatnam Port - Obulavaripalle new line,30.08,51.4,8
+CORR_014,Line 1: Nagercoil - Chennai Egmore,4.01,10.34,8
+CORR_015,Line 2: Chennai Egmore - Nagercoil,4.01,10.34,8
+CORR_016,Lucknow–Moradabad line,66.48,192.11,30
+CORR_017,Lumding - Silchar BG Line,30.08,51.4,8
+CORR_018,Mumbai - Delhi Railway,34.55,76.81,30
+CORR_019,Mumbai-Pune Railway,54.52,111.45,30
+CORR_020,Western Dedicated Freight Corridor,15.33,35.72,30

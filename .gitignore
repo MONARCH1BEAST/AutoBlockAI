@@ -41,10 +41,11 @@ data/processed/maintenance_tasks_escalated.csv
 !data/processed/train_delay_stats.csv
 
 # ------------------------------------------------------------
-# 3. ML MODEL ARTIFACTS (large + regenerable)
+# 3. ML MODEL ARTIFACTS
 # ------------------------------------------------------------
-# .pkl files can be 10-50 MB each; model retraining takes ~2 min
-src/models/saved/*.pkl
+# Our XGBoost models are small (<1 MB each), so we DO push them.
+# This ensures the dashboard works immediately after cloning.
+# Only exclude other large model formats that we don't use.
 src/models/saved/*.joblib
 src/models/saved/*.h5
 src/models/saved/*.pt
